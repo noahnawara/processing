@@ -22,7 +22,7 @@ This sketch creates a bubble that follows your mouse around
 
 
 # CrayCube
-<img src="/img/CrayCube.png" width="500">
+<img src="/img/CrayCube.png" width="440">  <img src="/img/CrayCube2.png" width="440">
 
 This sketch displays an animated cube from the inside
 <br><br><br><br>
