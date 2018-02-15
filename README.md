@@ -24,7 +24,7 @@ This sketch displays an animated cube from the inside
 
 
 # loading...
-![loading...](/img/p04.png)
+<img src="/img/loading...png" width="500">
 
 This sketch displays an animated loading screen
 <br><br><br><br>
