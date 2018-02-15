@@ -16,7 +16,7 @@ This sketch creates a bubble that follows your mouse around
 
 
 # CrayCube
-![CrayCube](/img/p03.png)
+![CrayCube](/img/CrayCube.png)
 
 This sketch displays an animated cube from the inside
 <br><br><br><br>
