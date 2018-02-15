@@ -1,32 +1,31 @@
 # PingPong
 ![PingPong](/img/PingPong.png)
 
-This sketch displays an animated pattern of racing lines
+This sketch allows you to play Ping Pong using an Xbox Controller
 <br><br><br><br>
 
 
 
 # Bubble
-![Cube Disco](/img/p02.png)
+![Bubble](/img/p02.png)
 
-This sketch displays an animated glowing cube of dots
+This sketch creates a bubble that follows your mouse around
 <br><br><br><br>
 
 
 
 
 # CrayCube
-![Video Color Palettes](/img/p03.png)
+![CrayCube](/img/p03.png)
 
-Creates a color palette of each frame of a selected video.<br><br>
-<em>Mouse position controls the amount of colors the palette consists of.</em>
+This sketch displays an animated cube from the inside
 <br><br><br><br>
 
 
 
 
 # loading...
-![Supershapes 3D](/img/p04.png)
+![loading...](/img/p04.png)
 
-Visualization of three dimensional super shapes
+This sketch displays an animated loading screen
 <br><br><br><br>
