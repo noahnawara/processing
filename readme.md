@@ -13,7 +13,7 @@ This sketch allows you to play Ping Pong using an Xbox Controller
 
 
 # Bubble
-<img src="/img/Bubble.png" width="440">  <img src="/img/Bubble2.png" width="440">
+<img src="/img/Bubble2.png" width="440">  <img src="/img/Bubble.png" width="440">
 
 This sketch creates a bubble that follows your mouse around
 <br><br><br><br>
