@@ -7,8 +7,8 @@ This sketch allows you to play Ping Pong using an Xbox Controller
 
 
 # Bubble
-![Bubble](./img/Bubble.png =250x)
-<img src="/img/Bubble.png" width="200">
+![Bubble](./img/Bubble.png)
+<img src="/img/Bubble.png" width="500">
 
 This sketch creates a bubble that follows your mouse around
 <br><br><br><br>
@@ -17,11 +17,12 @@ This sketch creates a bubble that follows your mouse around
 
 
 # CrayCube
-![CrayCube](./img/CrayCube.png =250x)
+![CrayCube](./img/CrayCube.png)
 
 This sketch displays an animated cube from the inside
 <br><br><br><br>
 
+<img src="/img/CrayCube.png" width="500">
 
 
 
